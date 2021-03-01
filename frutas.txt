@@ -1,6 +1,6 @@
 A:
-Abacaxi
+5 - Abacaxi     
 M:
-
-Morango
-Melancia
+1 - Melão
+1  -Morango
+2 - Melancia
